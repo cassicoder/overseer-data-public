@@ -40,6 +40,14 @@
         "c": 0,
         "f": 5,
         "meal": "lunch"
+      },
+      {
+        "name": "Banana (medium)",
+        "cal": 105,
+        "p": 1,
+        "c": 27,
+        "f": 0,
+        "meal": "breakfast"
       }
     ]
   },
