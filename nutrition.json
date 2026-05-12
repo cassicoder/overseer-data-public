@@ -1,0 +1,47 @@
+{
+  "days": {
+    "2026-05-12": [
+      {
+        "name": "Steak Tacos at home (x4 - steak, flour tortilla, queso, veggies, tzatziki)",
+        "cal": 1360,
+        "p": 116,
+        "c": 76,
+        "f": 60,
+        "meal": "dinner"
+      },
+      {
+        "name": "White Rice (~1 cup cooked)",
+        "cal": 205,
+        "p": 4,
+        "c": 45,
+        "f": 0,
+        "meal": "dinner"
+      },
+      {
+        "name": "Rice Krispies Treat (x2)",
+        "cal": 180,
+        "p": 2,
+        "c": 34,
+        "f": 4,
+        "meal": "snacks"
+      },
+      {
+        "name": "Eggs (4 large)",
+        "cal": 280,
+        "p": 24,
+        "c": 2,
+        "f": 20,
+        "meal": "snacks"
+      },
+      {
+        "name": "Airfried Chicken Breast (140g)",
+        "cal": 231,
+        "p": 43,
+        "c": 0,
+        "f": 5,
+        "meal": "snacks"
+      }
+    ]
+  },
+  "version": 1
+}
