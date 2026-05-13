@@ -1,5 +1,47 @@
 {
   "days": {
+    "2026-05-11": [
+      {
+        "name": "Banana (medium)",
+        "cal": 105,
+        "p": 1,
+        "c": 27,
+        "f": 0,
+        "meal": "breakfast"
+      },
+      {
+        "name": "Rice Krispies Treat (x2, pre-gym)",
+        "cal": 180,
+        "p": 2,
+        "c": 34,
+        "f": 4,
+        "meal": "snacks"
+      },
+      {
+        "name": "Chicken Breast (140g)",
+        "cal": 231,
+        "p": 43,
+        "c": 0,
+        "f": 5,
+        "meal": "lunch"
+      },
+      {
+        "name": "Eggs scrambled in butter (4 large)",
+        "cal": 288,
+        "p": 24,
+        "c": 2,
+        "f": 20,
+        "meal": "lunch"
+      },
+      {
+        "name": "Butter for eggs (~20g)",
+        "cal": 143,
+        "p": 0,
+        "c": 0,
+        "f": 16,
+        "meal": "lunch"
+      }
+    ],
     "2026-05-12": [
       {
         "name": "Banana (medium)",
